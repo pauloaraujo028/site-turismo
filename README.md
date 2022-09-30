@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h2 align="center">Landing Page - Flex Turismo</h2>
+  <h2 align="center">Landing Page - Flex Turismos</h2>
 
   <h4 align="center">  
     <br />
